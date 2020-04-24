@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [PAGE 2](page-2.md)
 
 ## MY GROUP
 
-* [Markdown](my-group/markdown/README.md)
-  * [index](my-group/markdown/untitled-1.md)
-  * [Code block page](my-group/markdown/untitled.md)
+* [index](my-group/untitled-1.md)
+* [Code block page](my-group/untitled.md)
+* [PAGE 2](my-group/page-2.md)
+* [Markdown](my-group/markdown.md)
 
