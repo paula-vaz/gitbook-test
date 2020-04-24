@@ -6,6 +6,6 @@
 ## MY GROUP
 
 * [Markdown](my-group/markdown/README.md)
-  * [index](my-group/markdown/untitled/README.md)
-    * [index](my-group/markdown/untitled/untitled.md)
+  * [index](my-group/markdown/untitled-1.md)
+  * [Code block page](my-group/markdown/untitled.md)
 

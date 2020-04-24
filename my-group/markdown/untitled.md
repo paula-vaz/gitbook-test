@@ -5,7 +5,7 @@ metaDescription: This is the meta description for this page
 description: descripition. I don't like this.
 ---
 
-# index
+# Code block page
 
 The following is a code block with JavaScript language syntax highlighting.
 
