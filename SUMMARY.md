@@ -5,6 +5,7 @@
 
 ## MY GROUP
 
-* [Markdown](my-group/markdown.md)
-* [index](untitled.md)
+* [Markdown](my-group/markdown/README.md)
+  * [index](my-group/markdown/untitled/README.md)
+    * [index](my-group/markdown/untitled/untitled.md)
 
