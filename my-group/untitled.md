@@ -7,6 +7,8 @@ description: descripition. I don't like this.
 
 # Code block page
 
+## title
+
 The following is a code block with JavaScript language syntax highlighting.
 
 ```javascript
@@ -14,6 +16,8 @@ import React from 'react';
 ```
 
 Supports multiple languages.
+
+### title
 
 The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
 
@@ -24,9 +28,7 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 
 ## Live Editing example
 
-\`\`\`javascript react-live=true
+text
 
-Change my text
 
-\`\`\`
 
